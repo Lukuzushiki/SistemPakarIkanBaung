@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Sistem Pakar Ikan Baung</string>
+
+    //Detail Penyakit
+    <string name="penjelasan_aeromonas_hyd">Gejala pada penyakit ini antara lain : \n
+        - Pendarahan Pada Kulit \n
+        - Lemah \n
+        - Kulit Gelap \n
+        - Kulit Kasar \n
+        - Susah Bernafas(Megap-Megap)
+    </string>
+    <string name="penjelasan_aeromonas_punc">Gejala pada penyakit ini antara lain : \n
+        - Lemah \n
+        - Nafsu Makan Menurun \n
+        - Infeksi Kulit Kepala, Badan Belakang, Insang dan Sirip
+    </string>
+    <string name="penjelasan_pseudomonas">Gejala pada penyakit ini antara lain : \n
+        - Borok Pada Kulit \n
+        - Pendarahan Pada Kulit \n
+        - Lemah \n
+        - Kurus \n
+        - Nafsu Makan Menurun
+    </string>
+    <string name="penjelasan_white_spot">Gejala pada penyakit ini antara lain : \n
+        - Lemah \n
+        - Sering Muncul ke Permukaan \n
+        - Timbul Bintik Putih Pada Sirip \n
+        - Ikan Menggesekkan Badan ke Benda Keras
+    </string>
+    <string name="penjelasan_saprolegnia">Gejala pada penyakit ini antara lain : \n
+        - Timbul bercak putih keabuan yang membesar \n
+        - Muncul selaput putih pada kulit &amp; insang \n
+        - Ikan menjadi malas bergerak dan kurang respon terhadap rangsangan \n
+        - Ikan sering menggosokkan badan ke dasar kolam
+    </string>
+    <string name="penjelasan_achlya">Gejala pada penyakit ini antara lain : \n
+        - Timbul bercak putih keabuan yang membesar \n
+        - Muncul selaput putih pada kulit &amp; insang \n
+        - Ikan menjadi malas bergerak dan kurang respon terhadap rangsangan \n
+        - Ikan sering menggosokkan badan ke dasar kolam \n
+        - Ikan kehilangan sebagian komponen tubuh posteriornya (Badan hingga Ekor)
+    </string>
+
+    //Gejala Penyakit
+    <string name="gejala_aeromonas_hyd">Gejala Aeromonas Hydrophylia</string>
+    <string name="gejala_aeromonas_punc">Gejala Aeromonas Punctata</string>
+    <string name="gejala_pseudomonas">Gejala Pseudomonas Hydrophylia</string>
+    <string name="gejala_white_spot">Gejala White Spot</string>
+    <string name="gejala_saprolegnia">Gejala Saprolegnia Sp</string>
+    <string name="gejala_achlya">Gejala Achlya Sp</string>
+
+    //Cara Mencegah
+    <string name="mencegah_aeromonas_hyd">Cara Mencegah Aeromonas Hydrophylia</string>
+    <string name="mencegah_aeromonas_punc">Cara Mencegah Aeromonas Punctata</string>
+    <string name="mencegah_pseudomonas">Cara Mencegah Pseudomonas Hydrophylia</string>
+    <string name="mencegah_white_spot">Cara Mencegah White Spot</string>
+    <string name="mencegah_saprolegnia">Cara Mencegah Saprolegnia Sp</string>
+    <string name="mencegah_achlya">Cara Mencegah Achlya Sp</string>
+
+    //Variable Jenis Penyakit
+    <string name="P01">Pseudomonas Hydrophylia</string>
+    <string name="P02">Aeromonas Hydrophylia</string>
+    <string name="P03">Aeromonas Punctata</string>
+    <string name="P04">White Spot</string>
+    <string name="P05">Saprolegnia Sp</string>
+    <string name="P06">Achlya Sp</string>
+
+    //Variable Gejala Penyakit
+    <string-array name="gejala">
+        <item>Borok pada kulit</item>
+        <item>Pendarahan pada kulit</item>
+        <item>Lemah</item>
+        <item>Kurus</item>
+        <item>Nafsu makan menurun</item>
+        <item>Kulit gelap</item>
+        <item>Kulit kasar</item>
+        <item>Susah bernafas</item>
+        <item>Infeksi kulit kepala, badan belakang, insang dan sirip</item>
+        <item>Sering muncul ke permukaan</item>
+        <item>Timbul bintik-bintik pada kulit</item>
+        <item>Ikan menggesekkan badan ke benda keras</item>
+        <item>Timbul becak putih keabuan yang membesar</item>
+        <item>Muncul selaput putih pada kulit &amp; insang</item>
+        <item>Ikan menjadi malas bergerak dan kurang respon terhadap rangsangan</item>
+        <item>Ikan sering menggosokkan badan ke dasar kolam</item>
+        <item>Ikan kehilangan sebagian komponen tubuh posteriornya(Badan hingga Ekor)</item>
+    </string-array>
+</resources>
